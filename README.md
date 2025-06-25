@@ -2,9 +2,6 @@
 
 A mobile application built for Vatsalya Trust to streamline NGO operations like appointment scheduling, volunteer and beneficiary management, donation tracking, and event updates. Developed using **React Native**, **Firebase**, and modern development practices to ensure scalability and real-time performance.
 
-![Visitor Count](https://profile-counter.glitch.me/nikhildamre/count.svg)
-[![wakatime](https://wakatime.com/badge/user/c5d31f5f-3d90-4e8d-b132-9461d2156069.svg)](https://wakatime.com/@c5d31f5f-3d90-4e8d-b132-9461d2156069)
-
 ---
 
 ## ✨ Features
